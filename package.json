@@ -1,0 +1,15 @@
+{
+  "name": "cour_1",
+  "version": "1.0.0",
+  "description": "cour three.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "author": "waly le dev",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.8.0",
+    "three": "^0.146.0"
+  }
+}
